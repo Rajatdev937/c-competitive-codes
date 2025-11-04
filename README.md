@@ -1,32 +1,44 @@
-## C Programming & Problem Solving
+## 💻 C Programming & Problem Solving  
 
-Welcome to my C Programming Repository!
-This repo contains my C programs, practice questions, and problem-solving codes from:
+Welcome to my **C Programming Repository!**  
+This repo contains my C programs, practice questions, and problem-solving codes from:  
 
-🟢 LeetCode
-🧩 GeeksforGeeks
-🏁 HackerRank
+- 🟢 **LeetCode**  
+- 🧩 **GeeksforGeeks**  
+- 🏁 **HackerRank**  
 
-I’m using this repo to learn and practice C — from basics to slightly advanced topics like pointers and file handling.
+I’m using this repo to **learn and practice C** — from basics to slightly advanced topics like pointers and file handling.  
 
- ## Topics Covered:
+---
 
-Basics of C (loops, functions, conditionals)
-Arrays and Strings
-Pointers and Structures
-File Handling
-Sorting & Searching
-Simple Data Structures (linked list, stack, queue)
-Practice problems from LeetCode and GFG
+## 🧠 Topics Covered  
 
-## Goal 
-To build a strong base in C programming and improve problem-solving skills by solving challenges regularly.
+- Basics of C (loops, functions, conditionals)  
+- Arrays and Strings  
+- Pointers and Structures  
+- File Handling  
+- Sorting & Searching  
+- Simple Data Structures (linked list, stack, queue)  
+- Practice problems from LeetCode and GFG  
 
-📬 Connect With Me
-💼 LinkedIn- https://www.linkedin.com/in/rajat-negi-b04513368/
-🧑‍💻 GitHub -https://github.com/Rajatdev937
+---
 
-## 🛠 How to Run
+## 🎯 Goal  
+
+To build a strong base in **C programming** and improve **problem-solving skills** by solving challenges regularly.  
+
+---
+
+## 📬 Connect With Me  
+
+- 💼 **LinkedIn:** [Rajat Negi](https://www.linkedin.com/in/rajat-negi-b04513368/)  
+- 🧑‍💻 **GitHub:** [Rajatdev937](https://github.com/Rajatdev937)  
+
+---
+
+## 🛠 How to Run  
+
 ```bash
-gcc filename.c -o output
+gcc filename.c -o output  
 ./output
+
