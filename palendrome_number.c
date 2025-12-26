@@ -14,7 +14,7 @@ reverse=reverse*10+remainder;
 n=n/10;
 }
 if(original==reverse)
-    printf("its a palindrome number\n");
+printf("its a palindrome number\n");
 else
 printf("its not a palindrome\n");
 return 0;
