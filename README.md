@@ -12,15 +12,15 @@ I use this repo to strengthen:
 
 ## 📌 Topics Covered
 
-- 🔹 Basics of C (syntax, loops, functions)
-- 🔹 Arrays & Strings
-- 🔹 Bit Manipulation
-- 🔹 Mathematics for CP
-- 🔹 Searching & Sorting
-- 🔹 Recursion
-- 🔹 Pointers
-- 🔹 Time & Space Complexity
-- 🔹 Common Competitive Programming Patterns
+- Basics of C (syntax, loops, functions)
+-  Arrays & Strings
+-  Bit Manipulation
+-  Mathematics for CP
+-  Searching & Sorting
+-  Recursion
+-  Pointers
+-  Time & Space Complexity
+-  Common Competitive Programming Patterns
 
 ---
 
